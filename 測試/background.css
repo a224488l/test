@@ -1,0 +1,38 @@
+.body{
+    background-image: url(img/000.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.div00{
+    width: 960px;
+    height: 1000px;
+    margin: auto;
+    background-color: rgb(255, 255, 255,0.7);
+
+}
+.body0{
+    background-image: url(img/100.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.div{
+    width: 960px;
+    height: 1200px;
+    margin: auto;
+    background-color: rgb(255, 255, 255,0.7);
+}
+.div01{
+    width: 960px;
+}
+.div02{
+    float:right;
+    width:400px;
+}
+.content2{
+    float:left;
+    width:500px;
+    padding: 20px;
+    line-height: 30px;
+    font-size: 20px;
+    text-align: justify;
+}
